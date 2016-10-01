@@ -17,13 +17,10 @@ title: maxime devaux github website
 email: devaux.maxime@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   @maxpower75011
-  technical project manager
-  Hello, my name is Maxime Devaux.
-  I am technical project manager.
-  I live in Paris and work at BETC DIGITAL where we create extraordinary creative websites.
+  technical project manager @ BETC DIGITAL PARIS **
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maxpower75011.github.io/" # the base hostname & protocol for your site
-twitter_username: maxoonb
+twitter_username: betcdigital
 github_username:  maxpower75011
 
 # Build settings

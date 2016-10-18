@@ -1,7 +1,7 @@
-<resultats jeu="superloto" nb="3">
-<tirage num_tirage="2016125" jeu="loto" date="17/10/2016" heure="20h40">
+<resultats jeu="loto" nb="3">
+<tirage num_tirage="2016125" jeu="superloto" date="17/10/2016" heure="20h40">
 <forclusion date="17/12/2016"/>
-<numero num="1">8</numero>
+<numero num="1">88</numero>
 <numero num="2">31</numero>
 <numero num="3">48</numero>
 <numero num="4">39</numero>

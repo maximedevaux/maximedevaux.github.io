@@ -1,0 +1,117 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<resultats jeu="superloto" nb="3">
+<tirage num_tirage="2016125" jeu="loto" date="17/10/2016" heure="20h40">
+<forclusion date="17/12/2016"/>
+<numero num="1">8</numero>
+<numero num="2">31</numero>
+<numero num="3">48</numero>
+<numero num="4">39</numero>
+<numero num="5">22</numero>
+<numero num="chance">4</numero>
+<video>
+http:https://media.fdj.fr/generated/media/VIGNETTE/webtv_flash_13766-1476729329.f4v
+</video>
+<rapports>
+<rang num="1" nb_gagnant="0" gain="0,00"/>
+<rang num="2" nb_gagnant="3" gain="63793,60"/>
+<rang num="3" nb_gagnant="311" gain="1324,30"/>
+<rang num="4" nb_gagnant="14775" gain="12,00"/>
+<rang num="5" nb_gagnant="223469" gain="5,70"/>
+<rang num="6" nb_gagnant="349510" gain="2,00"/>
+<rang num="7" nb_gagnant="0" gain="1000000,00"/>
+<rang num="8" nb_gagnant="1" gain="63793,60"/>
+<rang num="9" nb_gagnant="4" gain="1324,30"/>
+<rang num="10" nb_gagnant="324" gain="12,00"/>
+<rang num="11" nb_gagnant="5470" gain="5,70"/>
+<rang num="12" nb_gagnant="2" gain="2000,00"/>
+<rang num="13" nb_gagnant="6" gain="500,00"/>
+<rang num="14" nb_gagnant="100" gain="100,00"/>
+<rang num="15" nb_gagnant="72" gain="50,00"/>
+<rang num="16" nb_gagnant="1755" gain="15,00"/>
+<rang num="17" nb_gagnant="6508" gain="2,00"/>
+</rapports>
+<tirage_suivant jeu="loto" date="19/10/2016" montant="10000000,00" type="garanti"/>
+<mention format="long">
+<![CDATA[
+Montant à partager entre les gagnants du 1er rang ou en cas d'absence de gagnants au 1er rang après 34 tirages consécutifs au rang inférieur
+ ayant au moins 1 gagnant. Voir règlement.
+]]>
+</mention>
+<mention format="court">
+<![CDATA[
+Montant à partager entre les gagnants du 1er rang. Voir règlement.
+]]>
+</mention>
+<mention format="arjel">
+<![CDATA[
+Jouer comporte des risques : endettement, dépendance...<br>
+ Appelez le 09-74-75-13-13 (appel non surtaxé)
+]]>
+</mention>
+<jokerplus>7569332</jokerplus>
+</tirage>
+<tirage num_tirage="2016124" jeu="loto" date="15/10/2016" heure="20h40">
+<forclusion date="15/12/2016"/>
+<numero num="1">47</numero>
+<numero num="2">30</numero>
+<numero num="3">41</numero>
+<numero num="4">32</numero>
+<numero num="5">39</numero>
+<numero num="chance">7</numero>
+<video>
+http:https://media.fdj.fr/generated/media/VIGNETTE/webtv_flash_13759-1476556659.f4v
+</video>
+<rapports>
+<rang num="1" nb_gagnant="0" gain="0,00"/>
+<rang num="2" nb_gagnant="0" gain="0,00"/>
+<rang num="3" nb_gagnant="415" gain="2461,10"/>
+<rang num="4" nb_gagnant="19429" gain="15,50"/>
+<rang num="5" nb_gagnant="307675" gain="7,00"/>
+<rang num="6" nb_gagnant="913043" gain="2,00"/>
+<rang num="7" nb_gagnant="0" gain="1000000,00"/>
+<rang num="8" nb_gagnant="0" gain="0,00"/>
+<rang num="9" nb_gagnant="4" gain="2461,10"/>
+<rang num="10" nb_gagnant="313" gain="15,50"/>
+<rang num="11" nb_gagnant="6299" gain="7,00"/>
+<rang num="12" nb_gagnant="0" gain="2000,00"/>
+<rang num="13" nb_gagnant="4" gain="500,00"/>
+<rang num="14" nb_gagnant="92" gain="100,00"/>
+<rang num="15" nb_gagnant="97" gain="50,00"/>
+<rang num="16" nb_gagnant="1970" gain="15,00"/>
+<rang num="17" nb_gagnant="7922" gain="2,00"/>
+</rapports>
+<jokerplus>1417510</jokerplus>
+</tirage>
+<tirage num_tirage="2016123" jeu="loto" date="12/10/2016" heure="20h40">
+<forclusion date="12/12/2016"/>
+<numero num="1">2</numero>
+<numero num="2">19</numero>
+<numero num="3">34</numero>
+<numero num="4">47</numero>
+<numero num="5">23</numero>
+<numero num="chance">2</numero>
+<video>
+http:https://media.fdj.fr/generated/media/VIGNETTE/webtv_flash_13750-1476297400.f4v
+</video>
+<rapports>
+<rang num="1" nb_gagnant="0" gain="0,00"/>
+<rang num="2" nb_gagnant="2" gain="118009,20"/>
+<rang num="3" nb_gagnant="444" gain="1144,00"/>
+<rang num="4" nb_gagnant="19326" gain="11,30"/>
+<rang num="5" nb_gagnant="290775" gain="5,40"/>
+<rang num="6" nb_gagnant="357289" gain="2,00"/>
+<rang num="7" nb_gagnant="0" gain="1000000,00"/>
+<rang num="8" nb_gagnant="0" gain="118009,20"/>
+<rang num="9" nb_gagnant="11" gain="1144,00"/>
+<rang num="10" nb_gagnant="518" gain="11,30"/>
+<rang num="11" nb_gagnant="7141" gain="5,40"/>
+<rang num="12" nb_gagnant="1" gain="2000,00"/>
+<rang num="13" nb_gagnant="3" gain="500,00"/>
+<rang num="14" nb_gagnant="103" gain="100,00"/>
+<rang num="15" nb_gagnant="103" gain="50,00"/>
+<rang num="16" nb_gagnant="2320" gain="15,00"/>
+<rang num="17" nb_gagnant="8255" gain="2,00"/>
+</rapports>
+<jokerplus>1635881</jokerplus>
+</tirage>
+</resultats>

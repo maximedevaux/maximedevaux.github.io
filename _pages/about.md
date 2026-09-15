@@ -99,7 +99,7 @@ Formations
 
 **HETIC (Hautes études des technologies de l’information et de la communication) - ECTEI - (Bac +5)** <br>
 Septembre 2007 - Septembre 2010.  <br>
-EXPERT EN INGÉNIERIE ET MANAGEMENT DE LA COMMUNICATION NUMÉRIQUE <br>
+**EXPERT EN INGÉNIERIE ET MANAGEMENT DE LA COMMUNICATION NUMÉRIQUE** <br>
 HETIC (www.hetic.net) a pour but de former des experts en ingénierie et management de la communication numérique réellement
 opérationnels et aptes à s'insérer rapidement dans des entreprises majeures à des postes clés. (MASTER - Bac +5)
 

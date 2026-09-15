@@ -87,10 +87,12 @@ Industrialisation, Intégration continue et test automatisés: Git, Jenkins, Doc
 Dématérialisation de démarches, Gestion Électronique de Documents (GED), Outils collaboratifs.   <br>
 Rédaction de procédures, tutoriels utilisateur, support et résolution d'incidents (ticketing).  
 
-**LANGUES** <br>
+**LANGUES :** <br>
 Français : Maternel.  <br>
 Anglais : Courant - TOEIC 920.  <br>
 Espagnol, Italien : Scolaire. 
+
+
 
 Formations
 ======

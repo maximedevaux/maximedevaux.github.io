@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Maxime DEVAUX / Presentation"
 title_separator          : "-"
 name                     : &name "Maxime DEVAUX"
@@ -27,9 +27,9 @@ author:
   name             : "Portfolio de Maxime DEVAUX"
   pronouns         : # example: "he"  
   bio              : "Chef de projet Informatique"
-  location         : "Earth"
+  location         : "NANTES"
   employer         : "Chef de projet Informatique"
-  uri              : # URL
+  uri              : "https://maximedevaux.github.io"
   email            : "devaux.maxime[a]gmail.com" 
 
   # Academic websites

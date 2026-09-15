@@ -29,7 +29,7 @@ author:
   bio              : "Chef de projet Informatique"
   location         : "NANTES"
   employer         : "Chef de projet Informatique"
-  uri              : "https://www.linkedin.com/in/maximedevaux/"
+  uri              : # "https://www.linkedin.com/in/maximedevaux/"
   email            : "devaux.maxime[a]gmail.com" 
 
   # Academic websites

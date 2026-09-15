@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenue sur mon portfolio !
+Bienvenue sur mon CV en ligne !
 ======
 Chef de Projet fort de plus de 15 ans d'expérience dans la conduite de projets digitaux complexes (refontes et
 migrations, dématérialisation, workflows métiers).
@@ -19,7 +19,7 @@ Expérience
 ======
 
 Almavia CX - Directeur de projet Informatique - https://almaviacx.com/
-=
+========
 NANTES - CDI - January 2021, Mai 2026
 Directeur de Projet sur les comptes du Groupe Atlantic, de la CNP Assurance, de la Mutuelle Ivry Fraternelle, Ministère de la
 Culture et différents comptes digitaux et CRM.

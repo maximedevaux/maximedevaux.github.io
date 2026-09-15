@@ -24,9 +24,9 @@ repository               : "maximedevaux/maximedevaux.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Portfolio de Maxime DEVAUX"
+  name             : "Maxime DEVAUX"
   pronouns         : # example: "he"  
-  bio              : "Chef de projet Informatique"
+  bio              : "Portfolio"
   location         : "NANTES"
   employer         : "Chef de projet Informatique"
   uri              : # "https://www.linkedin.com/in/maximedevaux/"

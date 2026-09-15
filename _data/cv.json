@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Maxime DEVAUX",
+    "email": "devaux.maxime[a]gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://maximedevaux.github.io",
+    "summary": "Chef de projet Informatique",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "NANTES",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
@@ -25,15 +25,15 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "maximedevaux",
+        "url": "https://github.com/maximedevaux"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "HETIC",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
@@ -42,7 +42,7 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "DUT SRC",
       "area": "M.S. in Jekyll",
       "studyType": "",
       "startDate": "",
@@ -51,7 +51,7 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Bac S SI",
       "area": "B.S. in GitHub",
       "studyType": "",
       "startDate": "",

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio de Maxime DEVAUX - Chef de projet Informatique"
+title: "CV - Maxime DEVAUX - Chef de projet Informatique"
 author_profile: true
 redirect_from: 
   - /about/

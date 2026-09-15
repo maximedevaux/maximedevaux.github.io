@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenue sur mon CV en ligne !
-======
-Chef de Projet fort de plus de 15 ans d'expérience dans la conduite de projets digitaux complexes (refontes et
+**Bienvenue sur mon CV en ligne !**
+***Chef de Projet fort de plus de 15 ans d'expérience dans la conduite de projets digitaux complexes (refontes et
 migrations, dématérialisation, workflows métiers).
-Expert en pilotage de projets transverses, cadrage budgétaire et accompagnement au changement.
+Expert en pilotage de projets transverses, cadrage budgétaire et accompagnement au changement.***
 
 
 
